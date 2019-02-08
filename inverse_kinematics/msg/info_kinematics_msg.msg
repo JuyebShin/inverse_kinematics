@@ -1,0 +1,14 @@
+float64 X_length
+float64 Y_length
+float64 Z_length
+float64 R_yaw
+float64 L_yaw
+float64 Leg_angle
+float64 PA
+float64 RA
+float64 flag
+int32[] Using_Motor_id
+int32 KM_flag
+int32 KM_flag2
+int32 Side_flag
+int32 Step_counter
